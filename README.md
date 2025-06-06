@@ -1,2 +1,5 @@
-# SequenciaPares-202501
-https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-sequenciapares
+# SequenciaPares
+
+Este é um programa desenvolvido na aula de Programação de Computadores com C#.
+
+Faça o download [aqui](dist.zip).
